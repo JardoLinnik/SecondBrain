@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "9ceb86012b49e548",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb371c988972f631",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d04bae23621353f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19f180445862edf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e647057a9b498e44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afeb27c36cb64ca5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "94edd630a29af597",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "36753b87464bf71d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c964f746b21cca2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d8849e298d4623b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74e8ab7d4bb35f21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Синергия/История России/2. Возникновение и становление государственности на Руси (IX - XII вв.).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 2. Возникновение и становление государственности на Руси (IX - XII вв.)"
+            }
+          },
+          {
+            "id": "0edc027af7a23c6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Синергия/История России/2. Возникновение и становление государственности на Руси (IX - XII вв.).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 2. Возникновение и становление государственности на Руси (IX - XII вв.)"
+            }
+          },
+          {
+            "id": "60076e5ba14d84da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "2f08699cc936c574",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Синергия/История России/2. Возникновение и становление государственности на Руси (IX - XII вв.).md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура 2. Возникновение и становление государственности на Руси (IX - XII вв.)"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "d04bae23621353f6",
+  "lastOpenFiles": [
+    "IT/Фичи GIT.md",
+    "IT/Git.md",
+    "IT/KANBAN.md",
+    "IT/Python.md",
+    "IT/SCRUM.md",
+    "Python/Декоратор.md",
+    "IT/Ruby.md",
+    "IT/Perl.md",
+    "IT/PHP.md",
+    "IT/C шарп.md",
+    "IT/C++.md",
+    "IT/C.md",
+    "IT/JAVA.md",
+    "IT/requests Python.md",
+    "IT/CSS.md",
+    "IT/Java Script.md",
+    "IT/HTML.md",
+    "IT/Docker.md",
+    "IT/WWW.md",
+    "IT/IT компании.md",
+    "IT/IT собеседование.md",
+    "IT/Linux Arch.md",
+    "Библиотеки Python/fastAPI.md",
+    "Библиотеки Python/django.md",
+    "Библиотеки Python/timedate.md",
+    "Книги/\"Атомные привычки\" - Джеймс Клир.md",
+    "Изображения/iterator 1.gif",
+    "Изображения/iterator.gif",
+    "Python",
+    "Библиотеки Python",
+    "Реферат/scale_1200.jpg",
+    "Реферат/scale_2400.jpg",
+    "Реферат/z1oha53tvzedfta4t7q32t7dkbww3rwk.jpg",
+    "Реферат/7.jpg",
+    "Реферат/6.jpg",
+    "Реферат/5.jpeg",
+    "Реферат/4.jpg",
+    "Реферат/3.jpeg",
+    "Реферат",
+    "Синергия/Высшая математика",
+    "Синергия/Технология програмированния",
+    "Без названия.canvas",
+    "история Росии",
+    "История",
+    "История/История россии",
+    "Синергия",
+    "Люди"
+  ]
+}
