@@ -1,0 +1,1 @@
+Типы данных делятся на две группы: изменяемые и неизменяемые. Изменяемые – dict, set, list. Неизменяемые – все числовые типы (int, float, complex, ...), bool, tuple, str, NoneType, byte, frozenset

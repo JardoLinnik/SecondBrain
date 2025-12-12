@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"563d8d2df7bec0f0","x":-101,"y":-256,"width":101,"height":60,"type":"text","text":"DB"},
+		{"id":"db19c071e5102fa8","x":-112,"y":-140,"width":123,"height":60,"type":"text","text":"Server"},
+		{"id":"bbb89b7e6e0e44cc","x":11,"y":-40,"width":129,"height":60,"type":"text","text":"Client"},
+		{"id":"9a17fcde35866784","x":-230,"y":-40,"width":118,"height":60,"type":"text","text":"Client"}
+	],
+	"edges":[
+		{"id":"1418ff0ebf6eca9b","fromNode":"9a17fcde35866784","fromSide":"top","toNode":"db19c071e5102fa8","toSide":"bottom"},
+		{"id":"ce431b87f15134ed","fromNode":"bbb89b7e6e0e44cc","fromSide":"top","toNode":"db19c071e5102fa8","toSide":"bottom"},
+		{"id":"6da2f41bc5ac523c","fromNode":"db19c071e5102fa8","fromSide":"top","toNode":"563d8d2df7bec0f0","toSide":"bottom"},
+		{"id":"8aade151ca00ae6c","fromNode":"563d8d2df7bec0f0","fromSide":"top","toNode":"9a17fcde35866784","toSide":"left"},
+		{"id":"2d7fad8e3a8e0ab1","fromNode":"563d8d2df7bec0f0","fromSide":"top","toNode":"bbb89b7e6e0e44cc","toSide":"right"}
+	]
+}

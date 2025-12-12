@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"7df52dbb8e9c2ecc","type":"text","text":"DB","x":-500,"y":-150,"width":100,"height":60},
+		{"id":"2fb8ef4f58e423ef","type":"text","text":"LoadBalancer","x":-190,"y":-380,"width":170,"height":60},
+		{"id":"85c53387ce4a7cb5","type":"text","text":"ApiGateway","x":-193,"y":-280,"width":172,"height":60},
+		{"id":"9b8559eda5f86349","type":"text","text":"User Service ","x":-340,"y":-180,"width":177,"height":60},
+		{"id":"b250b8f5eaf5a00b","type":"text","text":"Authorization Service","x":100,"y":-280,"width":220,"height":60},
+		{"id":"b30102a9ed127e76","x":-466,"y":-297,"width":126,"height":60,"type":"text","text":"Redis"}
+	],
+	"edges":[
+		{"id":"c4b332e20b9b5157","fromNode":"9b8559eda5f86349","fromSide":"left","toNode":"7df52dbb8e9c2ecc","toSide":"right"},
+		{"id":"5c6aa8650a21b9ec","fromNode":"2fb8ef4f58e423ef","fromSide":"bottom","toNode":"85c53387ce4a7cb5","toSide":"top"},
+		{"id":"059698422d78ac18","fromNode":"85c53387ce4a7cb5","fromSide":"bottom","toNode":"9b8559eda5f86349","toSide":"top"},
+		{"id":"d0481039bdc0a6a6","fromNode":"85c53387ce4a7cb5","fromSide":"right","toNode":"b250b8f5eaf5a00b","toSide":"left"},
+		{"id":"fa315fbaab8c223e","fromNode":"b250b8f5eaf5a00b","fromSide":"left","toNode":"85c53387ce4a7cb5","toSide":"right"},
+		{"id":"48508aba3be0118c","fromNode":"85c53387ce4a7cb5","fromSide":"left","toNode":"b30102a9ed127e76","toSide":"right"},
+		{"id":"94906995c7fa2c1b","fromNode":"b30102a9ed127e76","fromSide":"right","toNode":"85c53387ce4a7cb5","toSide":"left"}
+	]
+}

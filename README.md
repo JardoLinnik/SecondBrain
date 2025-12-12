@@ -1,2 +1,0 @@
-# SecondBrain
-obsidian

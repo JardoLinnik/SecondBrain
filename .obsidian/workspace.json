@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "448a6780ecdd8023",
+    "type": "split",
+    "children": [
+      {
+        "id": "001a876623b0c496",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6afa97bb667064e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Холсты/Т - банк.canvas",
+                "viewState": {
+                  "x": 1783.1791817462947,
+                  "y": 45.939987639447075,
+                  "zoom": -0.5
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Т - банк"
+            }
+          },
+          {
+            "id": "ccf63ad73d0fe553",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/ООП.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ООП"
+            }
+          },
+          {
+            "id": "e0adea8a0a5e052c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Шпаргалка/Письмо для hr.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Письмо для hr"
+            }
+          },
+          {
+            "id": "82e749acce005d18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Шпаргалка/Легенда/Я Легенда.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Я Легенда"
+            }
+          },
+          {
+            "id": "3e0d0fb1e2d8eed0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Шпаргалка/Вопросы для изучения.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вопросы для изучения"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a6088accaa3842a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f85613ece9cfccd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e966891819ca9208",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "1beb81e87f314666",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "30151c41a930dfef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8ba13f61e0c9960b",
+    "type": "split",
+    "children": [
+      {
+        "id": "71b6eac6936f0818",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "770c0b198989d4fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/*Docker.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для *Docker"
+            }
+          },
+          {
+            "id": "15861d6248e8cd72",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IT/GIT/git конфликты.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from git конфликты"
+            }
+          },
+          {
+            "id": "7adbf1c0af7ef9ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "3f6fa41624141cee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IT/GIT/git конфликты.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of git конфликты"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "bases:Создать новую базу": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "3e0d0fb1e2d8eed0",
+  "lastOpenFiles": [
+    "Холсты/Т - банк.canvas",
+    "Шпаргалка/Письмо для hr.md",
+    "Шпаргалка/Легенда/Т-банк.md",
+    "Шпаргалка/Вопросы для изучения.md",
+    "Base/Самая сложная задача.md",
+    "Шпаргалка/Легенда/Я Легенда.md",
+    "Base/Сущности k8s.md",
+    "Base/Без названия.md",
+    "Base/ООП.md",
+    "Base/Класс.md",
+    "Base/Обьект.md",
+    "Base/SOLID.md",
+    "image/Pasted image 20251204184325.png",
+    "image/Pasted image 20251204182328.png",
+    "image/Pasted image 20251204175630.png",
+    "image/Pasted image 20251204174847.png",
+    "image/Pasted image 20251204173833.png",
+    "Base/Обработка ошибок.md",
+    "Base/Исключения.md",
+    "Base/Ограничение аттрибутов.md",
+    "Base/Магические методы.md",
+    "Base/Наследование.md",
+    "Шаблоны/Для заметок.md",
+    "Base/*Последовательное програмирование.md",
+    "Без названия",
+    "Base/Систем дизайн.md",
+    "Base/Без названия 1.base",
+    "Base/Без названия.base",
+    "Base/Абстракция.md",
+    "Base/Композиция.md",
+    "Base/Полиморфизм.md",
+    "Base/Пространство имен.md",
+    "Base/Инкапсуляция.md",
+    "Base/accesify.md",
+    "Холсты/Вкусвилл.canvas",
+    "Холсты/База данных.canvas",
+    "Холсты/WatsUP.canvas",
+    "Холсты/Backend архитектура магазина.canvas",
+    "Шпаргалка/Процессы/Без названия",
+    "Шпаргалка/frontend",
+    "Шпаргалка/Docker/Без названия",
+    "Шпаргалка/Docker",
+    "Шпаргалка/Тестирование",
+    "Шпаргалка/Python/Без названия",
+    "Шпаргалка/k8s",
+    "Холсты/Клиент-сервер.canvas",
+    "Холсты/Фаил-сервер.canvas",
+    "image/photo.jpg",
+    "image/6802209ad8bf5020285360__1600x840.jpg",
+    "image/kortizol-1024x683.jpg",
+    "image/ru_keys.webp",
+    "image/ru_structure_db.webp",
+    "РАзобрать/IT/Конкурентность/Конкурентность.canvas"
+  ]
+}

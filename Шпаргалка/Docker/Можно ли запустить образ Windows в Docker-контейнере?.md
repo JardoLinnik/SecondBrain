@@ -1,0 +1,1 @@
+Да, на Docker hub лежит образ Windows server

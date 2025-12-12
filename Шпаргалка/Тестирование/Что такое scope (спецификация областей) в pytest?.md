@@ -1,0 +1,2 @@
+[](https://habr.com/ru/articles/448786/)[Это параметр для фикстуры, который определяет как часто фикстура выполняет setup и teardown. Может иметь значения фукнции, класса, модуля или сессии. По умолчанию scope = 'function'.  
+Более подробно можно почитать тут:](https://habr.com/ru/articles/448786/) [https://habr.com/ru/articles/448786/](https://habr.com/ru/articles/448786/)

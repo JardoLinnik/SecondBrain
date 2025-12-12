@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "spellcheck": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Base",
+  "attachmentFolderPath": "image",
+  "userIgnoreFilters": [
+    "Шпаргалка/"
+  ]
+}
